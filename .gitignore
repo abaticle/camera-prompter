@@ -5,7 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Local configurations (contains private Gemini API Key!)
-config.json
+#config.json
 
 # Operating System files
 .DS_Store
