@@ -1,0 +1,37 @@
+[
+  {
+    "id": "f_1_2",
+    "name": "f/1.2 (Ultra-shallow)",
+    "description": "Dreamlike aesthetic with extremely blurry backgrounds, beautiful circular bokeh, and razor-thin focus."
+  },
+  {
+    "id": "f_1_8",
+    "name": "f/1.8 (Shallow)",
+    "description": "Very shallow depth of field, highlighting the main subject while keeping the background softly out of focus."
+  },
+  {
+    "id": "f_2_8",
+    "name": "f/2.8 (Cinematic Classic)",
+    "description": "The sweet spot for cinema, offering clear separation of subject with a gorgeous background blur."
+  },
+  {
+    "id": "f_4_0",
+    "name": "f/4.0 (Balanced)",
+    "description": "Balanced depth of field with moderate background softening and sharp foreground details."
+  },
+  {
+    "id": "f_5_6",
+    "name": "f/5.6 (Deep Focus)",
+    "description": "Sharper throughout, perfect for capturing both the character and their immediate environment in detail."
+  },
+  {
+    "id": "f_8_0",
+    "name": "f/8.0 (Panoramic)",
+    "description": "Deep depth of field, keeping both foreground subjects and distant landscapes exceptionally crisp."
+  },
+  {
+    "id": "f_11",
+    "name": "f/11 (Maximum Depth)",
+    "description": "Extreme deep focus, ensuring every element from the lens to the background is completely sharp."
+  }
+]

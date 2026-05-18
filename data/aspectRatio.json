@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2_39_1",
+    "name": "2.39:1 (Anamorphic Widescreen)",
+    "description": "Ultra-wide theatrical format commonly used for epic films, blockbuster action, and immersive landscapes."
+  },
+  {
+    "id": "1_85_1",
+    "name": "1.85:1 (Standard Flat Cinema)",
+    "description": "Standard theatrical aspect ratio, filling the frame more vertically than anamorphic widescreen."
+  },
+  {
+    "id": "1_33_1",
+    "name": "1.33:1 (Academy 4:3 Vintage)",
+    "description": "Classic square-like cinema ratio, providing a nostalgic, intimate, or arthouse feel."
+  },
+  {
+    "id": "1_43_1",
+    "name": "1.43:1 (IMAX GT Format)",
+    "description": "Huge, immersive square-vertical hybrid ratio utilized for breathtaking IMAX cinema experiences."
+  },
+  {
+    "id": "9_16",
+    "name": "9:16 (Modern Vertical Cinema)",
+    "description": "Vertical framing tailored for cinematic storytelling on mobile screens and social platforms."
+  },
+  {
+    "id": "1_00_1",
+    "name": "1.00:1 (Square Artistic)",
+    "description": "Balanced 1:1 framing offering strict symmetry and abstract, stylized focal composition."
+  }
+]

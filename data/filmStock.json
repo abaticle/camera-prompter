@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kodak_portra_400",
+    "name": "Kodak Portra 400",
+    "description": "Known for exceptionally smooth skin tones, warm organic color palettes, and very fine grain structure."
+  },
+  {
+    "id": "kodak_vision3_500t",
+    "name": "Kodak Vision3 500T (Tungsten)",
+    "description": "Legendary theatrical film stock with excellent shadow detail, rich blues/teals, and expressive grain."
+  },
+  {
+    "id": "fujifilm_superia_400",
+    "name": "Fujifilm Superia 400",
+    "description": "Vibrant color palette with highlighted greens, cool shadow undertones, and active grain."
+  },
+  {
+    "id": "ilford_hp5",
+    "name": "Ilford HP5 Plus (B&W)",
+    "description": "Classic monochrome film stock featuring prominent silver halide grain and strong mid-tone contrast."
+  },
+  {
+    "id": "eastman_double_x",
+    "name": "Eastman Double-X 5222",
+    "description": "Rich, historical black and white look with moody shadows, bright highlights, and retro texture."
+  },
+  {
+    "id": "kodachrome_64",
+    "name": "Kodachrome 64 Vintage",
+    "description": "Highly saturated, contrasty slide film look with warm tones, popular in late 20th-century cinematography."
+  },
+  {
+    "id": "digital_clean",
+    "name": "Pristine Digital (ArriRAW)",
+    "description": "Zero grain, extreme color fidelity, ultra-clean highlights, and optimal dynamic recovery."
+  }
+]

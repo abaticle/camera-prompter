@@ -1,0 +1,37 @@
+[
+  {
+    "id": "panavision_c_anamorphic",
+    "name": "Panavision C-Series Anamorphic",
+    "description": "Legendary lens with oval bokeh, unique horizontal blue streak lens flares, and classic vintage falloff."
+  },
+  {
+    "id": "cooke_s4",
+    "name": "Cooke S4/i Prime",
+    "description": "Acclaimed for the warm, gentle 'Cooke Look' which renders natural skin tones and organic dimensionality."
+  },
+  {
+    "id": "zeiss_master_prime",
+    "name": "Zeiss Master Prime",
+    "description": "State-of-the-art lens offering extreme sharpness, high contrast, and virtually zero optical distortion."
+  },
+  {
+    "id": "canon_k35",
+    "name": "Canon K35 Vintage Prime",
+    "description": "Fast 1970s lenses with warm flares, organic textures, low contrast, and beautiful circular highlights."
+  },
+  {
+    "id": "leica_summilux_c",
+    "name": "Leica Summilux-C",
+    "description": "Provides natural color rendering, creamy focus roll-off, and excellent performance in low-light conditions."
+  },
+  {
+    "id": "24mm_wide",
+    "name": "24mm Wide-Angle Prime",
+    "description": "Expansive field of view that highlights scale, environments, and immersive depth."
+  },
+  {
+    "id": "85mm_tele",
+    "name": "85mm Portrait Prime",
+    "description": "Compresses background elements, creating beautiful portrait rendering and highly flattering face shapes."
+  }
+]

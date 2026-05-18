@@ -1,0 +1,42 @@
+[
+  {
+    "id": "chiaroscuro",
+    "name": "Chiaroscuro (High Contrast)",
+    "description": "Dramatic contrast between deep shadows and bright light, reminiscent of classical painting and classic film noir."
+  },
+  {
+    "id": "golden_hour",
+    "name": "Golden Hour (Natural)",
+    "description": "Warm, diffused, low-angle natural sunlight with long shadows, occurring shortly after sunrise or before sunset."
+  },
+  {
+    "id": "neon_noir",
+    "name": "Neon Noir (Cyberpunk)",
+    "description": "Moody, highly saturated neon lights reflecting on wet streets with dark, ambient contrast."
+  },
+  {
+    "id": "low_key",
+    "name": "Low-Key (Atmospheric)",
+    "description": "Under-exposed style emphasizing shadows, dark tones, and a singular, focused key light for mystery."
+  },
+  {
+    "id": "high_key",
+    "name": "High-Key (Bright & Clean)",
+    "description": "Bright, even illumination with minimal shadows, ideal for upbeat, clean, or futuristic sci-fi looks."
+  },
+  {
+    "id": "rembrandt",
+    "name": "Rembrandt Lighting (Moody Portrait)",
+    "description": "Classic 45-degree angle lighting creating a subtle, signature triangle of light on the shadowed cheek."
+  },
+  {
+    "id": "backlit_silhouette",
+    "name": "Backlit Silhouette (Dramatic)",
+    "description": "Strong light source placed directly behind the subject, outlining them in a golden or neon halo."
+  },
+  {
+    "id": "motivated_practical",
+    "name": "Motivated Practical Lighting",
+    "description": "Light that appears to originate from elements within the scene, like lamps, candles, or computer screens."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "cinema-prompt-generator",
+  "version": "1.0.0",
+  "description": "A beautiful cinema shot prompt generator using Lit, Shoelace, and Gemini API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "lit",
+    "shoelace",
+    "gemini",
+    "prompt-generator",
+    "cinema"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "express": "^4.19.2"
+  }
+}

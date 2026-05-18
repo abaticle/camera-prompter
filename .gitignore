@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local configurations (contains private Gemini API Key!)
+config.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.local

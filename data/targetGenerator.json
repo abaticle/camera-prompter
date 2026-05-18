@@ -1,0 +1,17 @@
+[
+  {
+    "id": "nano_banana",
+    "name": "Nano Banana",
+    "description": "Optimizes output prompts for the Nano Banana model, focusing on vibrant colors, organic shapes, and ultra-crisp textures."
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "description": "Structures prompts with highly artistic visual descriptors, custom camera suffixes, and aspect ratio tags like '--ar 21:9'."
+  },
+  {
+    "id": "chatgtp_image_2",
+    "name": "ChatGTP Image 2",
+    "description": "Tailors descriptive, natural paragraph prompts optimal for ChatGPT's image generator, avoiding raw tag suffixes."
+  }
+]

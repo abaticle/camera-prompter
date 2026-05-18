@@ -1,0 +1,37 @@
+[
+  {
+    "id": "arri_alexa_lf",
+    "name": "ARRI Alexa LF",
+    "description": "Industry standard large-format digital cinema camera known for natural skin tones and organic rendering."
+  },
+  {
+    "id": "red_v_raptor",
+    "name": "RED V-Raptor XL",
+    "description": "High-speed 8K multi-format camera offering extreme resolution and superb dynamic range."
+  },
+  {
+    "id": "sony_venice_2",
+    "name": "Sony Venice 2",
+    "description": "Dual-native ISO sensor with beautiful color science, widely used in high-end feature films."
+  },
+  {
+    "id": "imax_msm_9802",
+    "name": "IMAX MSM 9802",
+    "description": "High-fidelity 15-perf 70mm film camera, delivering unmatched scale and immense detail."
+  },
+  {
+    "id": "panavision_dxl2",
+    "name": "Panavision Millennium DXL2",
+    "description": "Large-format camera integrated with legendary Panavision optics and RED Monstro sensor."
+  },
+  {
+    "id": "bolex_h16",
+    "name": "Bolex H16 (16mm Vintage)",
+    "description": "Classic spring-wound 16mm movie camera, adding vintage charm, heavy grain, and hand-held character."
+  },
+  {
+    "id": "super_35",
+    "name": "Super 35mm Film Camera",
+    "description": "Standard film camera format, offering a nostalgic, cinematic texture with natural highlights roll-off."
+  }
+]
